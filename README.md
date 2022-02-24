@@ -1,4 +1,4 @@
-# La vie en verte
+# La vie en verte (association fictive)
 L'utilisation de l'application est présentée dans les fichiers notice.html ou notice.rmd.  
 Vous pouvez parcourir l'application sur le lien :  https://francois-durand-hardy.shinyapps.io/la_vie_en_vert/ 
 
