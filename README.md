@@ -1,2 +1,8 @@
-# Projet de master 1ère année : Visualisation RShiny
-Visualisation de données avec RShiny
+# La vie en verte
+L'utilisation de l'application est présentée dans les fichiers notice.html ou notice.rmd.  
+Vous pouvez parcourir l'application sur le lien :  https://francois-durand-hardy.shinyapps.io/la_vie_en_vert/ 
+
+# Autrice et Auteurs :
+* DABOUDET Claire
+* DURAND-HARDY François
+* MAREAU Alexis
